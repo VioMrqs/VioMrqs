@@ -1,16 +1,70 @@
-### Hi there 👋
+# Hello you ! 
 
-<!--
-**VioMrqs/VioMrqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔮 Me, Myself & I 
 
-Here are some ideas to get you started:
+I'm **Violette**, a junior web developer living in Lyon.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I bumped into web development some years ago and loved it. I'm currently attending The Hacking Project fullstack engineer bootcamp and learning Ruby (Rails) & JS (React). 
+
+Personally commited to sustainability or social issues, with 5 years of experience in startups, I have hold the position of CSM leader at Vendredi, the french platform for solidarity involvement of citizens.
+
+## 🤓 Technologies I've been learning
+
+![HTLM5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![Ruby](https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&logoColor=white&style=for-the-badge)
+![Ruby on Rails](https://img.shields.io/badge/-Ruby%20on%20Rails-CC342D?logo=ruby-on-rails&logoColor=white&style=for-the-badge)
+![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
+![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
+![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=for-the-badge)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
+
+
+## 💻 Toolbox
+
+![macOS](https://img.shields.io/badge/-macOS-000000?style=for-the-badge&logo=macos&logoColor=white)
+![iTerm2](https://img.shields.io/badge/-iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white)
+![Oh My ZSH](https://img.shields.io/badge/oh_my_zsh-379554?style=for-the-badge&logo=ohmyzsh&logoColor=white)
+![VSCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&logo=obsidian&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+
+## 🦚 Projects I'm proud of
+
+### [SLAF](https://syndicatdelutteantifranglais.club/)
+
+![](https://syndicatdelutteantifranglais.club/assets/logo-meta-9de8eca6713f0032850014ade3b538ec0effe6e4b3964ef24fc8091070821837.jpg)
+
+After 2 months of full-stack classes at The Hacking Project, we've been asked to build our website from scratch build with rails.
+
+I and 4 teemates came up with the idea of compiling anglicisms and their french equivalents.
+
+Find [our repo](https://github.com/SLAF-Project/SLAF_Project).
+
+### [The Sloth Project](https://the-sloth-project.herokuapp.com/)
+
+Our first complex marketplace project, build with rails.
+
+Find [our repo](https://github.com/VioMrqs/thp_w10_the_sloth_project_gp).
+
+## 📈 My Stats
+
+<a href='https://github.com/VioMrqs/VioMrqs'>
+  <img align='center' src='https://github-readme-stats.vercel.app/api/top-langs/?username=VioMrqs&theme=cobalt2&show_icons=true'/>
+</a>
+
+<a href='https://github.com/VioMrqs/VioMrqs'>
+  <img align='center' src='https://github-readme-stats.vercel.app/api?username=VioMrqs&theme=cobalt2&show_icons=true'/>
+</a>
+
+## More about me
+
+Rendez-vous on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
+
+![salut](https://64.media.tumblr.com/624e8f84785c3cc9a9b50f3cacf23187/tumblr_nt8r2yycwr1uzq66lo1_500.gifv)
