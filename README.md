@@ -47,6 +47,14 @@ I and 4 teemates came up with the idea of compiling anglicisms and their french 
 
 Find [our repo](https://github.com/SLAF-Project/SLAF_Project).
 
+### [PEPS](https://peps.life/)
+
+After 5 months of intensive bootcamp, we gathered with the 4 mates of SLAT and build a webiste from scratch. We were supposed to build it on Rails x React but decided to test a new framework => Next Js, combining node & react env.
+
+We decided to build a collaborative cooking webiste whose main asset lies within the handling of the database.
+
+Find [our repo](https://github.com/SLAF-Team/Peps).
+
 ### [The Sloth Project](https://the-sloth-project.herokuapp.com/)
 
 Our first complex marketplace project, build with rails.
