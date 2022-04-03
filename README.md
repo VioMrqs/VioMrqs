@@ -4,7 +4,7 @@
 
 I'm **Violette**, a junior web developer living in Lyon.
 
-I bumped into web development some years ago and loved it. I'm currently attending The Hacking Project fullstack engineer bootcamp and learning Ruby (Rails) & JS (React). 
+I bumped into web development some years ago and loved it. I'm currently attending The Hacking Project fullstack engineer bootcamp and learning Ruby (Rails) & JS (React, Next). 
 
 Personally commited to sustainability or social issues, with 5 years of experience in startups, I have hold the position of CSM leader at Vendredi, the french platform for solidarity involvement of citizens.
 
@@ -34,6 +34,8 @@ Personally commited to sustainability or social issues, with 5 years of experien
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
 
 ## 🦚 Projects I'm proud of
 
