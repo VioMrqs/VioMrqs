@@ -38,7 +38,16 @@ Personally commited to sustainability or social issues, with 5 years of experien
 
 ## 🦚 Projects I'm proud of
 
+### [Youlearnfrench](https://youlearnfrench.fr/)
+_April 2022_
+
+After 6 months of intensive bootcamp, I was asked by a french teacher friend to develop her portfolio website.
+I did everything from scratch.
+
+It's my first 100% made website made on React, using Bootstrap as a lib, illu taken from figma + redesigned, powered by Netlify and so on.
+
 ### [SLAF](https://syndicatdelutteantifranglais.club/)
+_December 2021_
 
 ![](https://syndicatdelutteantifranglais.club/assets/logo-meta-9de8eca6713f0032850014ade3b538ec0effe6e4b3964ef24fc8091070821837.jpg)
 
@@ -48,7 +57,8 @@ I and 4 teemates came up with the idea of compiling anglicisms and their french 
 
 Find [our repo](https://github.com/SLAF-Project/SLAF_Project).
 
-### [PEPS](https://peps.life/)
+### [PEPS](https://peps.life/) 
+_March 2022_
 
 After 5 months of intensive bootcamp, we gathered with the 4 mates of SLAT and build a webiste from scratch. We were supposed to build it on Rails x React but decided to test a new framework => Next Js, combining node & react env.
 
@@ -57,6 +67,7 @@ We decided to build a collaborative cooking webiste whose main asset lies within
 Find [our repo](https://github.com/SLAF-Team/Peps).
 
 ### [The Sloth Project](https://the-sloth-project.herokuapp.com/)
+_December 2022_
 
 Our first complex marketplace project, build with rails.
 
