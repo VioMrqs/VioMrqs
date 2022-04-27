@@ -2,9 +2,11 @@
 
 ## 🔮 Me, Myself & I 
 
-I'm **Violette**, a junior web developer living in Lyon.
+I'm **Violette**, a junior fullstack web developer living in Lyon, France.
 
-I bumped into web development some years ago and loved it. I'm currently attending The Hacking Project fullstack engineer bootcamp and learning Ruby (Rails) & JS (React, Next). 
+I bumped into web development some years ago and loved it. I attended The Hacking Project fullstack engineer bootcamp from Septembre 2021 to April 2022 and learning Ruby (Rails) & JS (React, Next). 
+
+I am now working on personal projects and looking for a first position as a fullstack developer. 
 
 Personally commited to sustainability or social issues, with 5 years of experience in startups, I have hold the position of CSM leader at Vendredi, the french platform for solidarity involvement of citizens.
 
@@ -23,7 +25,6 @@ Personally commited to sustainability or social issues, with 5 years of experien
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 [![NextJs Logo](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## 💻 Toolbox
 
@@ -41,10 +42,10 @@ Personally commited to sustainability or social issues, with 5 years of experien
 ### [Youlearnfrench](https://youlearnfrench.fr/)
 _April 2022_
 
-After 6 months of intensive bootcamp, I was asked by a french teacher friend to develop her portfolio website.
+After 6 months of intensive bootcamp, I was asked by a French teacher friend to develop her portfolio website.
 I did everything from scratch.
 
-It's my first 100% made website made on React, using Bootstrap as a lib, illu taken from figma + redesigned, powered by Netlify and so on.
+It's my first 100% made website made on : React, using Bootstrap as a librairy, illustrations taken from Figma + redesigned and powered by Netlify.
 
 ### [SLAF](https://syndicatdelutteantifranglais.club/)
 _December 2021_
@@ -60,7 +61,7 @@ Find [our repo](https://github.com/SLAF-Project/SLAF_Project).
 ### [PEPS](https://peps.life/) 
 _March 2022_
 
-After 5 months of intensive bootcamp, we gathered with the 4 mates of SLAT and build a webiste from scratch. We were supposed to build it on Rails x React but decided to test a new framework => Next Js, combining node & react env.
+After 5 months of intensive bootcamp, we gathered with the 4 mates of SLAT and build a webiste from scratch. We were supposed to build it on Rails x React but decided to test a new framework => Next JS, combining Node & React JS env.
 
 We decided to build a collaborative cooking webiste whose main asset lies within the handling of the database.
 
@@ -86,5 +87,3 @@ Find [our repo](https://github.com/VioMrqs/thp_w10_the_sloth_project_gp).
 ## More about me
 
 Rendez-vous on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
-
-![salut](https://64.media.tumblr.com/624e8f84785c3cc9a9b50f3cacf23187/tumblr_nt8r2yycwr1uzq66lo1_500.gifv)
