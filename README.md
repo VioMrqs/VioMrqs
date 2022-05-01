@@ -6,9 +6,17 @@ I'm **Violette**, a junior fullstack web developer living in Lyon, France.
 
 I bumped into web development some years ago and loved it. I attended The Hacking Project fullstack engineer bootcamp from Septembre 2021 to April 2022 and learning Ruby (Rails) & JS (React, Next). 
 
-I am now working on personal projects and looking for a first position as a fullstack developer. 
+Now...
+- **Looking for a first position as a fullstack developer in Lyon or remote friendly**
+- Working on personal projects like [Youlearnfrench](https://youlearnfrench.fr/)
+- Learning Node JS && Digging React JS (again)
+- Training daily on Codewars (JS mostly)
+
+## More about me
 
 Personally commited to sustainability or social issues, with 5 years of experience in startups, I have hold the position of CSM leader at Vendredi, the french platform for solidarity involvement of citizens.
+
+Connect with me on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
 
 ## 🤓 Technologies I've been learning
 
@@ -45,7 +53,7 @@ _April 2022_
 After 6 months of intensive bootcamp, I was asked by a French teacher friend to develop her portfolio website.
 I did everything from scratch.
 
-It's my first 100% made website made on : React, using Bootstrap as a librairy, illustrations taken from Figma + redesigned and powered by Netlify.
+It's my first 100% made website made on : React JS - Parcel, using Bootstrap as a design librairy, illustrations taken from Figma + redesigned and powered by Netlify.
 
 ### [SLAF](https://syndicatdelutteantifranglais.club/)
 _December 2021_
@@ -83,7 +91,3 @@ Find [our repo](https://github.com/VioMrqs/thp_w10_the_sloth_project_gp).
 <a href='https://github.com/VioMrqs/VioMrqs'>
   <img align='center' src='https://github-readme-stats.vercel.app/api?username=VioMrqs&theme=cobalt2&show_icons=true'/>
 </a>
-
-## More about me
-
-Rendez-vous on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
