@@ -6,11 +6,11 @@ I'm **Violette**, a junior fullstack web developer living in Lyon, France.
 
 I bumped into web development some years ago and loved it. I attended The Hacking Project fullstack engineer bootcamp from Septembre 2021 to April 2022 and learning Ruby (Rails) & JS (React, Next). 
 
-Now...
-- **Looking for a first position as a fullstack developer in Lyon or remote friendly**
-- Working on personal projects like [Youlearnfrench](https://youlearnfrench.fr/)
-- Learning Node JS && Digging React JS (again)
-- Training daily on Codewars (JS mostly)
+Currently...
+- **Actively looking for a first position as a fullstack developer in Lyon or remote friendly**
+- Learning Node JS && Digging React JS (again), eager to learn TS
+- Training daily on Codewars (JS & Ruby mostly)
+- Last project : [Youlearnfrench](https://youlearnfrench.fr/)
 
 ## More about me
 
@@ -28,7 +28,6 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
 ![Javascript](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 ![ReactJs](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white&style=for-the-badge)
 ![PostGreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&style=for-the-badge)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=for-the-badge&logo=ant-design&logoColor=white)
@@ -47,13 +46,22 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
 
 ## 🦚 Projects I'm proud of
 
+### [PEPS](https://peps.life/) 
+_March & April 2022_
+
+After 5 months of intensive bootcamp, we gathered with the 4 mates of SLAT and build a webiste from scratch. We were supposed to build it on Rails x React but decided to test a new framework => Next JS, combining Node & React JS env.
+
+We decided to build a collaborative cooking webiste whose main asset lies within the handling of the database.
+
+Find [our repo](https://github.com/SLAF-Team/Peps).
+
 ### [Youlearnfrench](https://youlearnfrench.fr/)
 _April 2022_
 
 After 6 months of intensive bootcamp, I was asked by a French teacher friend to develop her portfolio website.
 I did everything from scratch.
 
-It's my first 100% made website made on : React JS - Parcel, using Bootstrap as a design librairy, illustrations taken from Figma + redesigned and powered by Netlify.
+It's my first 100% made website made on : React JS with Parcel as a bundler, using Bootstrap as a design librairy, illustrations redesigned on Figma and powered by Netlify.
 
 ### [SLAF](https://syndicatdelutteantifranglais.club/)
 _December 2021_
@@ -66,17 +74,8 @@ I and 4 teemates came up with the idea of compiling anglicisms and their french 
 
 Find [our repo](https://github.com/SLAF-Project/SLAF_Project).
 
-### [PEPS](https://peps.life/) 
-_March 2022_
-
-After 5 months of intensive bootcamp, we gathered with the 4 mates of SLAT and build a webiste from scratch. We were supposed to build it on Rails x React but decided to test a new framework => Next JS, combining Node & React JS env.
-
-We decided to build a collaborative cooking webiste whose main asset lies within the handling of the database.
-
-Find [our repo](https://github.com/SLAF-Team/Peps).
-
 ### [The Sloth Project](https://the-sloth-project.herokuapp.com/)
-_December 2022_
+_December 2021_
 
 Our first complex marketplace project, build with rails.
 
