@@ -2,19 +2,21 @@
 
 ## 🔮 Me, Myself & I 
 
-I'm **Violette**, a junior fullstack web developer living in Lyon, France.
-
-I bumped into web development some years ago and loved it. I attended The Hacking Project fullstack engineer bootcamp from Septembre 2021 to April 2022 and learning Ruby (Rails) & JS (React, Next). 
+I'm **Violette**, a fullstack web developer living in Lyon, France.
 
 Currently...
-- **Actively looking for a first position as a fullstack developer in Lyon or remote friendly**
-- Learning Node JS && Digging React JS (again), eager to learn TS
-- Training daily on Codewars (JS & Ruby mostly)
+- **Working** at [Greenly]([url](https://greenly.earth/en-us)), a carbon accounting platform
+
+_Stack : Typescript, Node, React, Styled component_
+- Having fun learning & working on side projects 
 - Last project : [Youlearnfrench](https://youlearnfrench.fr/)
 
 ## More about me
 
 Personally commited to sustainability or social issues, with 5 years of experience in startups, I have hold the position of CSM leader at Vendredi, the french platform for solidarity involvement of citizens.
+
+I bumped into web development some years ago and loved it. 
+I attended The Hacking Project fullstack engineer bootcamp from Septembre 2021 to April 2022 and learning Ruby (Rails) & JS (React, Next). 
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/violettemrqs/)
 
