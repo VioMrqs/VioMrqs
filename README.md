@@ -8,6 +8,7 @@ Currently...
 - **Working** at [Greenly]([url](https://greenly.earth/en-us)), a carbon accounting platform
 
 _main stack : Typescript, Node, React, Styled component, TypeORM_
+
 _other : Next JS, Tailwind css_
 
 - Having fun learning & working on side projects 
