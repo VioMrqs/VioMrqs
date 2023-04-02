@@ -7,9 +7,9 @@ I'm **Violette**, a fullstack web developer living in Lyon, France.
 Currently...
 - **Working** at [Greenly]([url](https://greenly.earth/en-us)), a carbon accounting platform
 
-_main stack : Typescript, Node, React, Styled component, TypeORM_
+_main stack : Typescript, Node, React, Styled component, TypeORM, TSOA_
 
-_other : Next JS, Tailwind css_
+_wurrently working on : Tailwind, Next JS, Tailwind css_
 
 - Having fun learning & working on side projects 
 - Last project : [Youlearnfrench](https://youlearnfrench.fr/)
