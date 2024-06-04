@@ -5,9 +5,9 @@
 I'm **Violette**, a fullstack web developer living in Lyon, France.
 
 Currently...
-- **Looking for a new challenge** and having fun on personal projects
+- **Working as a freelance for [Potentiel]([url](https://beta.gouv.fr/startups/potentiel.html)) (beta gouv)** and having fun on personal projects
 
-_interested in learning_ Typescript, Node, NextJS, React, Vue 3
+_main stack_ Typescript, Node, NextJS, Tailwind CSS, PostgreSQL, Event Stream, Gerkhin / Cucumber, TDD
 
 _interested in contributing to_ public interest or transition energy transition, or to smart services provided by scale-ups
 
@@ -18,7 +18,7 @@ _main stack_ Typescript, Node, NextJS, Tailwind CSS, PostgreSQL, REST API, Jest
 
 _others_ React, styled component, TypeORM, TSOA, Mongo, Heroku, GraphQL
 
-- Having fun learning & working on side projects (first live one [Youlearnfrench](https://youlearnfrench.fr/))
+- Having fun learning & working on **side projects** for friends or non profits
 
 ## More about me
 
