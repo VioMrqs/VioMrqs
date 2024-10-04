@@ -5,18 +5,20 @@
 I'm **Violette**, a fullstack web developer living in Lyon, France.
 
 Currently...
-- **Working as a freelance for [Potentiel]([url](https://beta.gouv.fr/startups/potentiel.html)) (beta gouv)** and having fun on personal projects
+- **Working as a freelance for [Potentiel]([url](https://beta.gouv.fr/startups/potentiel.html))** since April 2024
 
-_main stack_ Typescript, Node, NextJS, Tailwind CSS, PostgreSQL, Event Stream, Gerkhin / Cucumber, TDD
+_main stack_ Typescript, Node, NextJS, Tailwind CSS, PostgreSQL, Event Stream, Gerkhin / Cucumber, TDD, BDD
 
 _interested in contributing to_ public interest or transition energy transition, or to smart services provided by scale-ups
 
 
-- **Worked** at [Greenly]([url](https://greenly.earth/en-us)), a carbon accounting platform
+- **Worked** at [Greenly]([url](https://greenly.earth/en-us)), a carbon accounting platform for 2 years
 
 _main stack_ Typescript, Node, NextJS, Tailwind CSS, PostgreSQL, REST API, Jest
 
 _others_ React, styled component, TypeORM, TSOA, Mongo, Heroku, GraphQL
+
+_unrelated_ Was promoted lead tech of one of our squad after 1.5 years
 
 - Having fun learning & working on **side projects** for friends or non profits
 
